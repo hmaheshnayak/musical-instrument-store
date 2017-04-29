@@ -4,7 +4,7 @@ package main.java;
  * Created by mahesh on 4/22/2017.
  * Abstract
  */
-public abstract class InstrumentSpec {
+public class InstrumentSpec {
     private Builder builder;
     private String model;
     private Type type;

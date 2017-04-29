@@ -4,7 +4,7 @@ package main.java;
  * Created by mahesh on 4/22/2017.
  * Class that models a musical instrument
  */
-public abstract class Instrument {
+public class Instrument {
     private String serialNumber;
     private double price;
     private InstrumentSpec instrumentSpec;
